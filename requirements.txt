@@ -1,3 +1,4 @@
+build
 coverage
 flake8
 flake8-docstrings
@@ -10,3 +11,4 @@ pyhamcrest
 pytest
 pytest-html
 tox
+jinja2==3.0.*
